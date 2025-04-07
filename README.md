@@ -1,4 +1,4 @@
-## Hi there Hello, my name is Gerson Fray Alejandro Chavez 👋
+## Hello, my name is Gerson Fray Alejandro Chavez 👋
 
 <!--
 **GersonFray1512/GersonFray1512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
