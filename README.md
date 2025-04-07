@@ -1,5 +1,22 @@
 ## Hello, my name is Gerson Fray Alejandro Chavez 👋
 
+💻 Sobre mí:
+
+🏠 Originario deTingo Maria, actualmente vivo en Pasco
+🐾 Creo en Dios todopoderoso
+
+🛠 Habilidades técnicas:
+
+Desarrollo diselo grafico en Photoshop corel draw edicion de videos 
+
+🌱 Actualmente aprendiendo:
+
+Desarrollo de software lennguaje de programacion phyton 
+📫 Cómo contactarme:
+
+Correo: frayalejandro1015@gmail.com
+
+
 <!--
 **GersonFray1512/ MI PORTAFOLIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
